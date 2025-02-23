@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.idea
+api_client.py
+ApiDataManager.py
+Dockerfile
+get_selenium.py
+InternetManager.py
+jsonSample.json
+lastTimeUpdated.txt
+requirements.txt
+.dockerignore
