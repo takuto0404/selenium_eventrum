@@ -180,4 +180,5 @@ get_selenium.py
 InternetManager.py
 jsonSample.json
 lastTimeUpdated.txt
+requirements.txt
 .dockerignore
