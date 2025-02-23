@@ -1,5 +1,4 @@
-FROM python:3.11-slim
-#
+FROM golang:1.19-alpine3.15 AS go
 #WORKDIR /app
 #
 #RUN apt-get update && apt-get install -y --no-install-recommends \
