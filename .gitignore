@@ -176,7 +176,6 @@ cython_debug/
 .idea
 api_client.py
 ApiDataManager.py
-Dockerfile
 get_selenium.py
 InternetManager.py
 jsonSample.json
